@@ -1,0 +1,14 @@
+Câu 1. Cách biểu diễn biến phân loại?
+b) Biến phân loại biểu diễn một tập hợp hữu hạn các giá trị được gọi là các nhóm giá trị (categories)
+c) Biến phân loại có thể được biểu diễn bằng giá trị số hoặc không phải số
+
+Câu 2. Biến thứ bậc (ordinal variable) là gì?
+b) Có thể được biểu diễn bằng số nguyên hoặc nhãn dạng chuỗi (string labels)
+c) Là một biến phân loại có thứ tự có ý nghĩa (meaningful order)
+
+Câu 3. One-hot encoding là gì? 
+c) Tạo thêm một cột mới cho mỗi nhóm giá trị có thể có trong biến phân loại
+
+Câu 4. Giả sử chúng ta có một tập dữ liệu trong đó mỗi dòng mô tả một công ty. Trong các cột sau đây, cột nào nên được coi là đặc trưng dạng số có ý nghĩa để huấn luyện mô hình học máy phân loại công ty?
+c) Số lương nhân viên 
+d) Lợi nhuận của quý gần nhất 
